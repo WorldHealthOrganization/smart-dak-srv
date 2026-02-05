@@ -19,7 +19,7 @@ The DAK for Surveillance and the associated implementations tools can be found h
 
    - [Link to indicators table](https://smart.who.int/dak-srv/indicators.html)
  
-   - [Link to functional and non functional requirements](https://smart.who.int/dak-srv/system-requirements.html)
+   - [Link to functional and non-functional requirements](https://smart.who.int/dak-srv/system-requirements.html)
 
 For additional resources, see the <a href="dependencies.html">Dependencies</a> page, which includes the standards referenced in this implementation guide and the references section in the published DAK for Surveillance.
 
