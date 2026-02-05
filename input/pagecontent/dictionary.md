@@ -1,4 +1,4 @@
-<img width="847" height="284" alt="image" src="https://github.com/user-attachments/assets/f8b547b2-739d-4759-af05-da725059f245" />Component 5 in the Digital Adaptation Kit (DAK) for Surveillance outlines the minimum set of data corresponding to different points of the workflow within the identified business processes. The data set can be used on any software system and lists the data elements relevant for service delivery and executing decision-support logic, and for populating indicators and performance metrics.<br>
+Component 5 in the Digital Adaptation Kit (DAK) for Surveillance outlines the minimum set of data corresponding to different points of the workflow within the identified business processes. The data set can be used on any software system and lists the data elements relevant for service delivery and executing decision-support logic, and for populating indicators and performance metrics.<br>
 The table below presents the versions of the data dictionary.
 
 | Version | Link |
