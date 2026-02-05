@@ -2,7 +2,7 @@
 <div>
 <p> This DAK and set of implementation tools are still undergoing development. </p>
 <p> Content is for demonstration purposes only. </p>
-</div>{:.stu-note}
+</div>
 
 
 ### Summary 
