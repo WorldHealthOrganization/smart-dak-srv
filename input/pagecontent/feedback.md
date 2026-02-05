@@ -5,6 +5,6 @@
   <ul>
     <li>Clicking on one of the Feedbacks link to the right of any section header</li>
     <li>Sending an email to <a href= "mailto:SMART@who.int?subject = DAK Feedback">SMART@who.int</a></li>
-    <p>Creating an issue on the GitHub <a href="https://github.com/WorldHealthOrganization/smart-dak-srv">dak-srv repository</a></p>
+    <li>Creating an issue on the GitHub <a href="https://github.com/WorldHealthOrganization/smart-dak-srv">dak-srv repository</a></li>
   </ul>
 
