@@ -12,7 +12,7 @@
 <mark>[Add content here. You could use as reference the previously published DAKs]</mark>
 
 ### L2 Operational guidelines
-The DAK for <mark>[insert health domain here]</mark> and the associated implementations tools can be found here:
+The DAK for Surveillance and the associated implementations tools can be found here:
 
 <!-- insert the IRIS link inside the parentheses below. The link is available only after the PDF is published on WHO IRIS. --->
 - [Published DAK Document]()
@@ -21,28 +21,28 @@ The DAK for <mark>[insert health domain here]</mark> and the associated implemen
 
 - Implementation tools:
 
-   - [Link to the editable files of business processes, in .bpmn format](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/business-processes.html)
+   - [Link to the editable files of business processes, in .bpmn format](https://smart.who.int/dak-srv/business-processes.html)
    
-   - [Link to core data dictionary](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/dictionary.html)
+   - [Link to core data dictionary](https://smart.who.int/dak-srv/dictionary.html)
  
-   - [Link to decision support logic](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/decision-logic.html) 
+   - [Link to decision support logic](https://smart.who.int/dak-srv/decision-logic.html) 
 
-   - [Link to scheduling logic](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/scheduling-logic.html)
+   - [Link to scheduling logic](https://smart.who.int/dak-srv/scheduling-logic.html)
 
-   - [Link to indicators table](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/indicators.html)
+   - [Link to indicators table](https://smart.who.int/dak-srv/indicators.html)
  
-   - [Link to functional and non functional requirements](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/system-requirements.html)
+   - [Link to functional and non functional requirements](https://smart.who.int/dak-srv/system-requirements.html)
 
    
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the <mark>[insert health domain here]</mark> SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
+The L3 FHIR Implementation Guide for the Surveillance SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
 
 ### L4 Executable guidelines
-Reference implementations representing the L4 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Reference implementations representing the L4 layer for the Surveillance SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### L5 Dynamic guidelines
-Content representing the L5 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Content representing the L5 layer for the Surveillance SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### Contact Us
 <p>Please let us know about your experience in using the DAK and questions you may have by contacting us at <a href= "mailto:SMART@who.int?subject = DAK Feedback">SMART@who.int</a></p>
