@@ -5,9 +5,9 @@ Although the specific roles and demographic profiles of the personas will vary d
 ### Targeted generic personas
 
 <!--
-The targeted personas for the <mark>[insert health domain here]</mark> Digital Adaptation Kit are
+The targeted personas for the Surveillance Digital Adaptation Kit are
 health professionals operating in care settings that are able to provide
-the required essential interventions for <mark>[insert health domain here]</mark> delivery. Their
+the required essential interventions for surveillance delivery. Their
 key competences of are defined in the following table.
 
 **Descriptions of key generic personas**
@@ -16,9 +16,9 @@ key competences of are defined in the following table.
 
 <br/>
 -->
-The targeted personas for the <mark>[insert health domain here]</mark> Digital Adaptation Kit are
+The targeted personas for the Surveillance Digital Adaptation Kit are
 health professionals operating in care settings that are able to provide
-the required essential interventions for <mark>[insert health domain here]</mark> delivery. Their
+the required essential interventions for surveillance delivery. Their
 key competences of are defined by WHO in the <mark>Table 3</mark> of the DAK
 
 ### Related personas
