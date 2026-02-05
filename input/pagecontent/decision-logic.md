@@ -9,9 +9,9 @@ The table below presents the versions of the decision-support logic.
 
 | Version | Link |
 |---|---|
-| current* | [SRV DAK_decision-support logic.xlsx](SRV DAK_decision-support logic.xlsx) |
-|1.0.0 | [SRV DAK_decision-support logic.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_decision-support logic.xlsx) |
-|0.9.9 | [SRV DAK_decision-support logic.xlsx](https://smart.who.int/dak-srv/v0.9.9/SRV DAK_decision-support logic.xlsx) |
+| current* | [SRV DAK_decision-support logic.xlsx](SRV%20DAK_decision-support%20logic.xlsx) |
+|1.0.0 | [SRV DAK_decision-support logic.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV%20DAK_decision-support %20logic.xlsx) |
+|0.9.9 | [SRV DAK_decision-support logic.xlsx](https://smart.who.int/dak-srv/v0.9.9/SRV%20DAK_decision-support %20logic.xlsx) |
 
 *The current link indicates the latest release of the file. Note: the file's latest release might not always match the release number of the Implementation Guide.
 
