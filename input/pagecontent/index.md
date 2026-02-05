@@ -62,9 +62,9 @@ For more license details please see the [license page](https://smart.who.int/dak
 ### Providing Feedback
 Feedback specific to this specification can provided through:
 
-<p>Clicking on one of the Feedbacks link to the right of any section header</p>
-<p>Sending an email to SMART@who.int</p>
-<p>Creating an issue on [GitHub dak-srv repository](https://github.com/WorldHealthOrganization/smart-dak-srv)</p>
+<p>Clicking on one of the <strong>Feedback</strong> links to the right of any section header</p>
+<p>Sending an email to <a href="mailto:SMART@who.int">SMART@who.int</a></p>
+<p>Creating an issue on the <a href="https://github.com/WorldHealthOrganization/smart-dak-srv">GitHub dak-srv repository</a></p>
 
 <!---Note: Please keep the dsiclaimer note below in the main branch and when publishing the pre-release version of the DAK (v0.9.9). For official published versions, please delete the note from the file.-->
 ### Disclaimer
