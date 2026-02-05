@@ -57,7 +57,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by-nc-sa/3.0/igo/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg
 
-For more license details please see the [license page](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/license.html).
+For more license details please see the [license page](https://smart.who.int/dak-srv/license.html).
 
 ### Providing Feedback
 {% include feedback.md %}
