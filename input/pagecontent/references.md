@@ -1,4 +1,4 @@
-This implementation guide is meant to facilitate operationalization of the World Health Organization (WHO) Digital Adaptation Kit (DAK) for <mark>[insert health domain here]</mark>. 
+This implementation guide is meant to facilitate operationalization of the World Health Organization (WHO) Digital Adaptation Kit (DAK) for Surveillance. 
 
 The DAK for Surveillance and the associated implementations tools can be found here:
 
