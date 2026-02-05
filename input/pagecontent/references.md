@@ -1,6 +1,6 @@
 This implementation guide is meant to facilitate operationalization of the World Health Organization (WHO) Digital Adaptation Kit (DAK) for <mark>[insert health domain here]</mark>. 
 
-The DAK for <mark>[insert health domain here]</mark> and the associated implementations tools can be found here:
+The DAK for Surveillance and the associated implementations tools can be found here:
 
 <!-- insert the IRIS link inside the parentheses below. The link is available only after the PDF is published on WHO IRIS. --->
 - [Published DAK Document]()
@@ -9,19 +9,19 @@ The DAK for <mark>[insert health domain here]</mark> and the associated implemen
 
 - Implementation tools:
 
-   - [Link to the editable files of business processes, in .bpmn format](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/business-processes.html)
+   - [Link to the editable files of business processes, in .bpmn format](https://smart.who.int/dak-srv/business-processes.html)
    
-   - [Link to core data dictionary](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/dictionary.html)
+   - [Link to core data dictionary](https://smart.who.int/dak-srv/dictionary.html)
  
-   - [Link to decision support logic](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/decision-logic.html) 
+   - [Link to decision support logic](https://smart.who.int/dak-srv/decision-logic.html) 
 
-   - [Link to scheduling logic](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/scheduling-logic.html)
+   - [Link to scheduling logic](https://smart.who.int/dak-srv/scheduling-logic.html)
 
-   - [Link to indicators table](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/indicators.html)
+   - [Link to indicators table](https://smart.who.int/dak-srv/indicators.html)
  
-   - [Link to functional and non functional requirements](https://smart.who.int/dak-<mark>[health domain abbreviation]</mark>/system-requirements.html)
+   - [Link to functional and non functional requirements](https://smart.who.int/dak-srv/system-requirements.html)
 
-For additional resources, see the <a href="dependencies.html">Dependencies</a> page, which includes the standards referenced in this implementation guide and the references section in the published DAK for <mark>[insert health domain here]</mark>.
+For additional resources, see the <a href="dependencies.html">Dependencies</a> page, which includes the standards referenced in this implementation guide and the references section in the published DAK for Surveillance.
 
 
 ### WHO guideline development
