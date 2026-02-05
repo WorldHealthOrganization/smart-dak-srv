@@ -64,7 +64,7 @@ Feedback specific to this specification can provided through:
 
 <p>Clicking on one of the <strong>Feedback</strong> links to the right of any section header</p>
 <p>Sending an email to <a href="mailto:SMART@who.int">SMART@who.int</a></p>
-<p>Creating an issue on the <a href="https://github.com/WorldHealthOrganization/smart-dak-srv">GitHub dak-srv repository</a></p>
+<p>Creating an issue on the GitHub <a href="https://github.com/WorldHealthOrganization/smart-dak-srv">dak-srv repository</a></p>
 
 <!---Note: Please keep the dsiclaimer note below in the main branch and when publishing the pre-release version of the DAK (v0.9.9). For official published versions, please delete the note from the file.-->
 ### Disclaimer
