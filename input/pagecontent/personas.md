@@ -22,4 +22,4 @@ the required essential interventions for surveillance delivery. Their
 key competences of are defined by WHO in the <mark>Table 3</mark> of the DAK
 
 ### Related personas
-In addition to the targeted personas detailed in <mark>Table 3</mark>, there may be value in exploring other health worker occupational groups and stakeholders within the context of <mark>[insert health domain here]</mark>, such as <mark>[insert here]</mark>. Additional related personas are listed in the <mark>Table 4</mark> of the DAK.
+In addition to the targeted personas detailed in <mark>Table 3</mark>, there may be value in exploring other health worker occupational groups and stakeholders within the context of surveillance, such as <mark>[insert here]</mark>. Additional related personas are listed in the <mark>Table 4</mark> of the DAK.
