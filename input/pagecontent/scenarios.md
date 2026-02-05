@@ -1,6 +1,6 @@
 Component 3 in the Digital Adaptation Kit includes user scenarios, which are narratives that describe how the different personas may interact with each other and with the digital system. The user scenario is provided to help the reader better understand how the system will be used and how it would fit into existing workflows.
 
-Please consult chapter 3 from <mark>[insert health domain here]</mark> DAK where all scenarios are presented.
+Please consult chapter 3 from the SRV DAK where all scenarios are presented.
 
 **How to interpret user scenarios**
 
