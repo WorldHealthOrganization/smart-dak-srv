@@ -6,10 +6,13 @@
 
 
 ### Summary 
-<mark>[Add content here. You could use as reference the previously published DAKs]</mark>
-
+The WHO Health Emergencies Programme (WHE) supports countries in building resilient and responsive surveillance systems to detect, monitor, and respond to public health threats. A cornerstone of this work is strengthening the quality, interoperability, and use of surveillance data for early detection, situational awareness, and timely response. To support this, WHO developed a Digital Adaptation Kit (DAK) for surveillance. This DAK translates WHO surveillance guidelines into a structured format to support implementation in digital systems.  It provides standardized content for workflows, data elements, decision-support logic, and indicators, enabling better alignment of national systems with global standards.
+ 
 ### L1 Narrative guidelines
-<mark>[Add content here. You could use as reference the previously published DAKs]</mark>
+This first volume of the Surveillance DAK includes both disease-agnostic components and disease-specific modules for conditions like cholera, measles, meningitis, and yellow fever. This modular approach allows countries to adapt and scale the DAK content based on their national priorities, surveillance capacities, and digital maturity.
+ 
+The development of the Surveillance DAK was informed by key WHO guidance documents on surveillance, including the WHO Global Strategy for Collaborative Surveillance, the Integrated Disease Surveillance and Response (IDSR) guidelines, and various disease-specific surveillance standards (e.g. for cholera, measles, meningitis, yellow fever, etc.). These documents outline surveillance objectives, case definitions, data flows, reporting requirements, and recommended indicators. They were reviewed and synthesized to inform the digital content of the Surveillance DAK. In addition, WHO technical teams and country stakeholders contributed to the prioritization and validation of content. Links to the primary guidance documents used to develop this DAK can be found [here].
+
 
 ### L2 Operational guidelines
 The DAK for Surveillance and the associated implementations tools can be found here:
