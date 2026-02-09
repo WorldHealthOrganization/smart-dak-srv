@@ -9,7 +9,7 @@ The table below presents the versions of the decision-support logic.
 
 | Version | Link |
 |---|---|
-| current* | [SRV DAK_decision-support logic.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_decision-support logic.xlsx) |
+| current* | [SRV DAK_decision-support logic.xlsx](SRV DAK_decision-support logic.xlsx) |
 |1.0.0 | [SRV DAK_decision-support logic.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_decision-support logic.xlsx) |
 |0.9.9 | [SRV DAK_decision-support logic.xlsx](https://smart.who.int/dak-srv/v0.9.9/SRV DAK_decision-support logic.xlsx) |
 
