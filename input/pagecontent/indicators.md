@@ -5,9 +5,9 @@ The table below presents the versions of the indicators implementation tool publ
 
 | Version | Link |
 |---|---|
-| current* | [SRV DAK_indicators.xlsx](SRV%20DAK_indicators.xlsx) |
-|1.0.0 | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV%20DAK_indicators.xlsx) |
-|0.9.9 | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v0.9.9/SRV%20DAK_indicators.xlsx) |
+| current* | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_indicators.xlsx) |
+|1.0.0 | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_indicators.xlsx) |
+|0.9.9 | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v0.9.9/SRV DAK_indicators.xlsx) |
 
 *The current link indicates the latest release of the file. Note: the file's latest release might not always match the release number of the Implementation Guide.
 
