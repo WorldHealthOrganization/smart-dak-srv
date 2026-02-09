@@ -2,7 +2,7 @@ The table below presents the versions of the high-level functional and non-funct
 
 | Version | Link |
 |---|---|
-| current* | [SRV high-level functional and non-functional requirements.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_high-level functional and non-functional requirements.xlsx) |
+| current* | [SRV high-level functional and non-functional requirements.xlsx](SRV DAK_high-level functional and non-functional requirements.xlsx) |
 |1.0.0 | [SRV DAK_high-level functional and non-functional requirements.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_high-level functional and non-functional requirements.xlsx) |
 |0.9.9 | [SRV DAK_high-level functional and non-functional requirements.xlsx](https://smart.who.int/dak-srv/v0.9.9/SRV DAK_high-level functional and non-functional requirements.xlsx) |
 
