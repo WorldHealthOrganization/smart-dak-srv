@@ -1,11 +1,11 @@
-This page includes indicators and performance metrics that would be aggregated from core data elements identified and extracted from the WHO Digital Adaptation Kit (DAK) for <mark>[insert health domain here]</mark>. 
+This page includes indicators and performance metrics that would be aggregated from core data elements identified and extracted from the WHO Digital Adaptation Kit (DAK) for Surveillance. 
 These indicators may be aggregated automatically from the digital tracking tool to populate a digital health management information system (HMIS). 
 
-The table below presents the versions of the indicators implementation tool published as part of the <mark>[insert health domain here]</mark> DAK. 
+The table below presents the versions of the indicators implementation tool published as part of the Surveillance DAK. 
 
 | Version | Link |
 |---|---|
-| current* | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_indicators.xlsx) |
+| current* | [SRV DAK_indicators.xlsx](SRV DAK_indicators.xlsx) |
 |1.0.0 | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v1.0.0/SRV DAK_indicators.xlsx) |
 |0.9.9 | [SRV DAK_indicators.xlsx](https://smart.who.int/dak-srv/v0.9.9/SRV DAK_indicators.xlsx) |
 
