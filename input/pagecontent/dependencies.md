@@ -1,19 +1,18 @@
 The following standards and profiles are referenced in this implementation guide:
 
-* Integrating the Healthcare Enterprise (IHE):
-
-  * [Audit Trail and Node Authentication (ATNA) Profile](https://profiles.ihe.net/ITI/TF/Volume1/ch-9.html)
-
-  * [Sharing Valuesets and Concept Maps (SVCM) Profile](https://profiles.ihe.net/ITI/SVCM/index.html)
-
-  * [Mobile Care Services Discovery (mCSD) Profile](https://profiles.ihe.net/ITI/mCSD/index.html)
-
-* The International Patient Summary (IPS):
-
-  * [Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) IPS Implementation Guide, published by HL7 International - Patient Care Work Group](http://hl7.org/fhir/uv/ips/index.html)
-
 * World Health Organization (WHO):
 
-  * [WHO International Classification of Diseases 11th Revision (ICD-11)](https://icd.who.int/en)
+  * [International Statistical Classification of Diseases and Related Health Problems (ICD)](https://www.who.int/standards/classifications/classification-of-diseases
+)
+  * [International Classification of Functioning, Disability and Health (ICF)](https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health)
+  * [The International Classification of Health Interventions (ICHI)](https://www.who.int/standards/classifications/international-classification-of-health-interventions)
+  * [Anatomical Therapeutic Chemical (ATC)](https://www.who.int/tools/atc-ddd-toolkit/atc-classification)
 
-  * [WHO Family of International Classifications](https://www.who.int/standards/classifications)
+* SNOMED International:
+  * [Systematized Nomenclature of Medicine Clinical Terms (SNOMED) Global Patient Set (GPS)](https://www.snomed.org/what-is-snomed-ct)
+
+* Logical Observation Identifiers Names and Codes (LOINC)
+  * [Logical Observation Identifiers Names and Codes (LOINC)](https://loinc.org/search/)
+
+* Code system concept map relationship
+  * [HL7 FHIR Release 5](https://hl7.org/fhir/codesystem-concept-map-relationship.html)
