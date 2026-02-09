@@ -9,7 +9,17 @@
 
 # WHO SMART GUIDELINES - Surveillance Digital Adaptation Kit (DAK)
 
-A Surveillance Digital Adaptation Kit (DAK) Implementation Guide to be used as a starting point for publishing SMART DAK content
+The Surveillance Digital Adaptation Kit (DAK) focuses on infectious disease surveillance includes both disease-agnostic components and disease-specific modules for conditions including cholera, measles, bacterial meningitis, and yellow fever. This Digital adaptation kit (DAK) aims to provide a common language across several audiences – disease area programme managers, software developers and implementers of digital systems – to ensure a common understanding of the appropriate health information content within a defined health programme area, as a mechanism to catalyse the effective use of these digital systems.
+
+The key objectives of the DAK are:
+
+   - to ensure adherence to WHO clinical, public health and data use guidelines, and facilitate consistency of the health content that is used to inform the development of a surveillance system;
+   - to enable both health programme leads and digital health teams (including software developers) to have a joint understanding of the health content within the digital system, with a transparent mechanism to review the validity and accuracy of the health content; and
+   - to provide a starting point of the core data elements and indicators that should be included within surveillance systems for disease surveillance.
+
+Information detailed in this DAK reflects data elements, generic workflow processes, decision-support algorithms, functional and non-functional requirements as derived from WHO guidelines and guidance documents for various diseases listed in Table 3 of the DAK.
+
+The SRV DAK publication can be found here [IRIS link forthcoming].
 
 ## Changes and feedback
 
