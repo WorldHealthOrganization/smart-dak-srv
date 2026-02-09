@@ -1,4 +1,4 @@
-The table below presents the versions of the high-level functional and non-functional requirements implementation tool published as part of the <mark>[insert health domain here]</mark> DAK. 
+The table below presents the versions of the high-level functional and non-functional requirements implementation tool published as part of the Surveillance DAK. 
 
 | Version | Link |
 |---|---|
