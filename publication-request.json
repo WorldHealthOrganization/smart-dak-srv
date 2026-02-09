@@ -1,14 +1,14 @@
 {
-    "package-id" : "smart.who.int.dak-[health domain abbreviation]",
-    "title" : "SMART DAK [health domain abbreviation]", 
+    "package-id" : "smart.who.int.dak-srv",
+    "title" : "SMART DAK SRV",
     "category" : "base",
-    "introduction" : "SMART DAK [health domain abbreviation]",
+    "introduction" : "SMART DAK SRV",
     "version" : "0.9.9",
     "desc" : "0.9.9 pre-release",
     "mode" : "milestone",    
-    "path" : "http://smart.who.int/dak-[health domain abbreviation]/v0.9.9",
-    "ci-build": "http://worldhealthorganization.github.io/smart-dak-[health domain abbreviation]", 
+    "path" : "http://smart.who.int/dak-srv/v0.9.9",
+    "ci-build": "http://worldhealthorganization.github.io/smart-dak-srv", 
     "first": true, /*Note: this tag is set to “true” only for the first release, including the pre-release version. The subsequent releases will use “first”: false */
-    "status" : "draft",
+    "status" : "release",
     "sequence" : "Releases"
   }
