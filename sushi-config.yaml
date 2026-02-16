@@ -1,5 +1,5 @@
-id: smart.who.int.dak-empty # Replace "empty" with the health domain abbreviation
-canonical: http://smart.who.int/dak-empty # Replace "empty" with the health domain abbreviation
+id: smart.who.int.dak-srv # Replace "empty" with the health domain abbreviation
+canonical: http://smart.who.int/dak-srv # Replace "empty" with the health domain abbreviation
 name: DAKSRV # Replace "empty" with the health domain abbreviation
 title: SMART DAK SRV # Replace "empty" with the health domain abbreviation
 description: Surveillance Digital Adaptation Kit (DAK) Implementation Guide for publishing SMART DAK content for infectious disease surveillance # Update the description
