@@ -1,7 +1,7 @@
 This page describes the scheduling logic included in the WHO
 Digital Adaptation Kit (DAK) for <mark>[insert health domain here]</mark>.
 
-The scheduling logic component of the DAK provides information on scheduling of services, in accordance with WHO guidelines. In this DAK, the scheduling logic deconstructs the recommendations within the <mark>[health domain abbreviation]</mark> guidelines and guidance into a format that describe how services should be scheduled and communicated so that they can be operationalized in a digital system. The structure of the scheduling logic tables is based on an adaptation of the Decision Model and Notation (DMN™), an industry standard for modelling and executing decision logic.<br>
+The scheduling logic component of the DAK provides information on scheduling of services, in accordance with WHO guidelines. In this DAK, the scheduling logic deconstructs the recommendations within the <mark>[health domain abbreviation]</mark> guidelines and guidance into a format that describe how services should be scheduled and communicated so that they can be operationalized in a digital system. The structure of the scheduling logic tables is based on an adaptation of the Decision Model and Notation (DMN), an industry standard for modelling and executing decision logic.<br>
 The table below presents the versions of the scheduling logic.
 
 | Version | Link |
