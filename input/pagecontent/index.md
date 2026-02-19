@@ -28,9 +28,7 @@ The DAK for Surveillance and the associated implementations tools can be found h
    
    - [Link to core data dictionary](https://smart.who.int/dak-srv/dictionary.html)
  
-   - [Link to decision support logic](https://smart.who.int/dak-srv/decision-logic.html) 
-
-   - [Link to scheduling logic](https://smart.who.int/dak-srv/scheduling-logic.html)
+   - [Link to decision support logic](https://smart.who.int/dak-srv/decision-logic.html)
 
    - [Link to indicators table](https://smart.who.int/dak-srv/indicators.html)
  
