@@ -1,9 +1,4 @@
 <!---Note: Please keep the div below in the main branch and when publishing the pre-release version of the DAK (v0.9.9). For official published versions, please delete the div from the file.-->
-<div>
-<p> This DAK and set of implementation tools are still undergoing development. </p>
-<p> Content is for demonstration purposes only. </p>
-</div>
-
 
 ### Summary 
 The WHO Health Emergencies Programme (WHE) supports countries in building resilient and responsive surveillance systems to detect, monitor, and respond to public health threats. A cornerstone of this work is strengthening the quality, interoperability, and use of surveillance data for early detection, situational awareness, and timely response. To support this, WHO developed a Digital Adaptation Kit (DAK) for surveillance. This DAK translates WHO surveillance guidelines into a structured format to support implementation in digital systems.  It provides standardized content for workflows, data elements, decision-support logic, and indicators, enabling better alignment of national systems with global standards.
@@ -67,6 +62,5 @@ Feedback specific to this specification can provided through:
 <p>Sending an email to <a href="mailto:SMART@who.int">SMART@who.int</a></p>
 <p>Creating an issue on the GitHub <a href="https://github.com/WorldHealthOrganization/smart-dak-srv">dak-srv repository</a></p>
 
-<!---Note: Please keep the dsiclaimer note below in the main branch and when publishing the pre-release version of the DAK (v0.9.9). For official published versions, please delete the note from the file.-->
-### Disclaimer
-The specification herewith documented is a demo working specification and may not be used for any implementation purposes. This draft is provided without warranty of completeness or consistency and the official publication supersedes this draft. No liability can be inferred from the use or misuse of this specification or its consequences.
+<!---Note: Please keep the disclaimer note below in the main branch and when publishing the pre-release version of the DAK (v0.9.9). For official published versions, please delete the note from the file.-->
+
