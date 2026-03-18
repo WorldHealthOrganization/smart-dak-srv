@@ -18,7 +18,7 @@ The development of the Surveillance DAK was informed by key WHO guidance documen
 The DAK for Surveillance and the associated implementations tools can be found here:
 
 <!-- insert the IRIS link inside the parentheses below. The link is available only after the PDF is published on WHO IRIS. --->
-- [Published DAK Document]()
+- [Published DAK Document](https://iris.who.int/handle/10665/385079)
 
 <!-- insert the link to each implementation tool inside the corresponding parentheses below. Replace "<mark>[health domain abbreviation]</mark>" with the appropriate health domain abbreviation. --->
 
