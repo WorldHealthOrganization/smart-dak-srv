@@ -8,7 +8,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:http://smart.who.int/dak-srv/ImplementationGuide/smart.who.int.dak-srv | *Version*:1.0.0 |
-| Active as of 2026-03-18 | *Computable Name*:DAKSRV |
+| Active as of 2026-03-23 | *Computable Name*:DAKSRV |
 
 ### Summary
 
@@ -78,7 +78,7 @@ Creating an issue on the GitHub [dak-srv repository](https://github.com/WorldHea
   "name" : "DAKSRV",
   "title" : "SMART DAK SRV",
   "status" : "active",
-  "date" : "2026-03-18T12:44:05+00:00",
+  "date" : "2026-03-23T12:41:23+00:00",
   "publisher" : "WHO",
   "contact" : [{
     "name" : "WHO",

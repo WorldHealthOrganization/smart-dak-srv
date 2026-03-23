@@ -14,4 +14,4 @@ Generic: line 0, col 0, Warning - The HTML fragment 'globals-table.xhtml' is not
 /home/runner/work/smart-dak-srv/smart-dak-srv/.ci-tools/temp/ig-builds/smart.who.int.dak-srv#1.0.0-milestone/fsh-generated/resources/ImplementationGuide-smart.who.int.dak-srv.json: line 1, col 19361, Warning - Profile reference 'SMARTImplementationGuide' has not been checked because it could not be found, and the validator is set to not fetch unknown profiles (STRUCTURE)
 
 err = 2, warn = 7, info = 0
-IG Publisher Version: 2.2.0
+IG Publisher Version: 2.2.1

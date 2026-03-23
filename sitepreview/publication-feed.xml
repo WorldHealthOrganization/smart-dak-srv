@@ -18,8 +18,8 @@
       <dc:creator>WHO</dc:creator>
       <fhir:version>4.0.1</fhir:version>
       <fhir:kind>IG</fhir:kind>
-      <pubDate>Wed, 18 Mar 2026 12:44:05 +0000</pubDate>
-      <fhir:details>Publication run at 18/03/2026 by runner using Version 2.2.0 (Git# 1ba3945e1e66). Built 2026-03-17T22:39:52.182Z (14 hours old) source id Unknown (todo)</fhir:details>
+      <pubDate>Mon, 23 Mar 2026 12:41:23 +0000</pubDate>
+      <fhir:details>Publication run at 23/03/2026 by runner using Version 2.2.1 (Git# 25f7da538e12). Built 2026-03-20T11:03:18.361Z (3 days old) source id Unknown (todo)</fhir:details>
     </item>
       <item>
       <title>SMART DAK SRV version 0.9.9</title>

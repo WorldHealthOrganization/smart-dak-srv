@@ -1,48 +1,48 @@
 {
-  "date" : "Wed, 18 Mar, 2026 12:45:08 +0000",
+  "date" : "Mon, 23 Mar, 2026 12:42:23 +0000",
   "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
   "files" : [{
     "name" : "/fsh-generated/resources/ImplementationGuide-smart.who.int.dak-srv.json",
     "size" : 7468,
     "processes" : [{
       "activity" : "load",
-      "start" : 78,
-      "length" : 10
+      "start" : 75,
+      "length" : 8
     },
     {
       "activity" : "checkR4R4B",
-      "start" : 78,
+      "start" : 75,
       "length" : 5
     },
     {
       "activity" : "generateNarratives",
-      "start" : 78,
-      "length" : 15
+      "start" : 75,
+      "length" : 13
     },
     {
       "activity" : "validate",
-      "start" : 78,
-      "length" : 2059
+      "start" : 75,
+      "length" : 1919
+    },
+    {
+      "activity" : "scanForUsageStats",
+      "start" : 86,
+      "length" : 1
     },
     {
       "activity" : "generate1",
-      "start" : 88,
-      "length" : 46
+      "start" : 86,
+      "length" : 50
     },
     {
       "activity" : "generate2",
-      "start" : 89,
-      "length" : 40
+      "start" : 86,
+      "length" : 32
     },
     {
       "activity" : "generateValidationPack",
-      "start" : 95,
-      "length" : 3
-    },
-    {
-      "activity" : "scanExamplesForR5",
-      "start" : 98,
-      "length" : 1
+      "start" : 92,
+      "length" : 2
     }]
   },
   {
@@ -58,7 +58,7 @@
     "size" : 436,
     "processes" : [{
       "activity" : "generate2",
-      "start" : 89,
+      "start" : 86,
       "length" : 1
     }]
   },
@@ -84,12 +84,7 @@
   },
   {
     "name" : "/input/pagecontent/license.md",
-    "size" : 3787,
-    "processes" : [{
-      "activity" : "generate2",
-      "start" : 89,
-      "length" : 1
-    }]
+    "size" : 3787
   },
   {
     "name" : "/input/pagecontent/security-privacy.md",
@@ -101,7 +96,12 @@
   },
   {
     "name" : "/input/pagecontent/functional-requirements.md",
-    "size" : 546
+    "size" : 546,
+    "processes" : [{
+      "activity" : "generate2",
+      "start" : 86,
+      "length" : 1
+    }]
   },
   {
     "name" : "/input/pagecontent/indices.md",
@@ -113,12 +113,7 @@
   },
   {
     "name" : "/input/pagecontent/index.md",
-    "size" : 4984,
-    "processes" : [{
-      "activity" : "generate2",
-      "start" : 89,
-      "length" : 1
-    }]
+    "size" : 4984
   },
   {
     "name" : "/input/pagecontent/trust_domain_policy.md",
@@ -126,7 +121,12 @@
   },
   {
     "name" : "/input/pagecontent/dak-api.md",
-    "size" : 238
+    "size" : 238,
+    "processes" : [{
+      "activity" : "validate",
+      "start" : 75,
+      "length" : 1
+    }]
   },
   {
     "name" : "/input/pagecontent/business-process.md",
@@ -149,7 +149,7 @@
     "size" : 1245,
     "processes" : [{
       "activity" : "generate2",
-      "start" : 89,
+      "start" : 86,
       "length" : 1
     }]
   },
@@ -179,12 +179,7 @@
   },
   {
     "name" : "/input/pagecontent/data-models-and-exchange.md",
-    "size" : 3567,
-    "processes" : [{
-      "activity" : "generate2",
-      "start" : 89,
-      "length" : 1
-    }]
+    "size" : 3567
   },
   {
     "name" : "/input/pagecontent/system-requirements.md",
@@ -196,7 +191,12 @@
   },
   {
     "name" : "/input/pagecontent/non-functional-requirements.md",
-    "size" : 577
+    "size" : 577,
+    "processes" : [{
+      "activity" : "generate2",
+      "start" : 86,
+      "length" : 1
+    }]
   },
   {
     "name" : "/input/pagecontent/business-processes.md",
@@ -208,12 +208,7 @@
   },
   {
     "name" : "/input/pagecontent/testing.md",
-    "size" : 2733,
-    "processes" : [{
-      "activity" : "generate2",
-      "start" : 89,
-      "length" : 1
-    }]
+    "size" : 2733
   },
   {
     "name" : "/input/pagecontent/decision-logic.md",
@@ -236,7 +231,7 @@
     "size" : 1273,
     "processes" : [{
       "activity" : "generate2",
-      "start" : 89,
+      "start" : 86,
       "length" : 1
     }]
   },
@@ -258,12 +253,7 @@
   },
   {
     "name" : "/input/decision-logic/SRV DAK_decision logic.xlsx",
-    "size" : 236020,
-    "processes" : [{
-      "activity" : "generate2",
-      "start" : 89,
-      "length" : 1
-    }]
+    "size" : 236020
   },
   {
     "name" : "/input/decision-logic/SRV DAK_decision-support logic.xlsx",
@@ -275,7 +265,12 @@
   },
   {
     "name" : "/input/business-processes/SRV_DAK_BPMN_files.zip",
-    "size" : 33985
+    "size" : 33985,
+    "processes" : [{
+      "activity" : "generate2",
+      "start" : 86,
+      "length" : 1
+    }]
   },
   {
     "name" : "/input/business-processes/SRV_DAK_SVG_files.zip",
@@ -290,8 +285,8 @@
     "size" : 5434419,
     "processes" : [{
       "activity" : "generate2",
-      "start" : 89,
-      "length" : 5
+      "start" : 86,
+      "length" : 3
     }]
   },
   {

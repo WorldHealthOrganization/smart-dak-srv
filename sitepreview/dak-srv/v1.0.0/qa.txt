@@ -2,8 +2,8 @@ DAKSRV : Validation Results
 =========================================
 
 err = 2, warn = 7, info = 0
-IG Publisher Version: 2.2.0
-Generated Wed Mar 18 12:45:00 UTC 2026. FHIR version 4.0.1 for smart.who.int.dak-srv#1.0.0 (canonical = http://smart.who.int/dak-srv)
+IG Publisher Version: 2.2.1
+Generated Mon Mar 23 12:42:15 UTC 2026. FHIR version 4.0.1 for smart.who.int.dak-srv#1.0.0 (canonical = http://smart.who.int/dak-srv)
  Build Errors : 2 / 5 / 0
  /home/runner/work/smart-dak-srv/smart-dak-srv/.ci-tools/temp/ig-builds/smart.who.int.dak-srv#1.0.0/fsh-generated/resources/ImplementationGuide-smart.who.int.dak-srv : 2 / 2 / 1
 </table>
