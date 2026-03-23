@@ -10,5 +10,5 @@ A business process, or process, is a set of related activities or tasks performe
 
 For more details, please see component 4 "Generic business processes and workflows" in the WHO Digital Adaptation Kit (DAK) for Surveillance.
 
-The source files of the business processes designed for this DAK can be downloaded [here](SRV DAK_BPMN files.zip)
+The source files of the business processes designed for this DAK can be downloaded [here](SRV DAK_BPMN_files.zip)
 

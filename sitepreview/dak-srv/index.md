@@ -78,7 +78,7 @@ Creating an issue on the GitHub [dak-srv repository](https://github.com/WorldHea
   "name" : "DAKSRV",
   "title" : "SMART DAK SRV",
   "status" : "active",
-  "date" : "2026-03-23T12:42:23+00:00",
+  "date" : "2026-03-23T12:43:48+00:00",
   "publisher" : "WHO",
   "contact" : [{
     "name" : "WHO",
